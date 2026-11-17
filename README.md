@@ -18,3 +18,6 @@
 ## Option 1: If you just want to study by yourself
 * 📥 Download the 📋 "Fixed Collocation.xlsx" file directly
 * 🔍 View it on Google Sheets: https://docs.google.com/spreadsheets/d/1nD0Y3CWgc3dElsvley5madHl27FL-EbxhupmmG0EFzg/edit?usp=sharing
+
+## 🔊 Text-to-Speech
+The result can be used in TTS applications like: https://github.com/JusticeForSure2026/Language_Meaning_TTS
